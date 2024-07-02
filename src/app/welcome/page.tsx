@@ -1,4 +1,4 @@
-export function Welcome(){
+export default function Welcome(){
   return (
     <main className="">
       <h1>Página de Welcome</h1>
